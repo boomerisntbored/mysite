@@ -1,5 +1,5 @@
 # mysite
 
 Django Personal Blog
-Fisrt Project With Django
+First Project With Django
 
